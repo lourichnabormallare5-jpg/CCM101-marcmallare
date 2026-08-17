@@ -1,5 +1,19 @@
-# Laboratory 03 - Multi-Cloud Explorer
+## Checkpoint 7 - Linux System Investigation
 
-CCM101 - Cloud Computing
+### KillerCoda System Information
 
-This laboratory activity explores and compares Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP).
+| System Component | Information |
+|---|---|
+| Operating System | Ubuntu 24.04.4 LTS |
+| CPU | Intel Xeon E312xx |
+| CPU Count | 1 |
+| Memory | 1.9 GiB |
+| Disk Space | 19 GB total, 13 GB available |
+
+### Cloud Services That Can Host This Linux Server
+
+- **AWS:** Amazon EC2 can be used to create and host Linux virtual servers.
+- **Microsoft Azure:** Azure Virtual Machines can run Linux-based virtual machines.
+- **Google Cloud Platform:** Compute Engine can be used to create and run Linux virtual machines.
+
+These cloud services can provide virtual computing resources similar to the Linux environment used in KillerCoda.
